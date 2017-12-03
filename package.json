@@ -1,0 +1,14 @@
+{
+  "name": "99_bottles_of_beer-master",
+  "version": "1.0.0",
+  "description": "The beersong In this puzzle, write code to print out the entire \"99 bottles of beer on the wall\" song. For those who do not know the song, the lyrics follow this form:",
+  "main": "main.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jasmine": "^2.8.0"
+  }
+}
